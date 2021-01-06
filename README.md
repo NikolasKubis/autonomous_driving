@@ -23,3 +23,6 @@ Singularity with ROS installed on it is a pre-requisite to this game.
 
 A limitation in the case of using a slow graphics card is that the time needed to launch the simulator may induce a skip of all commands recorded. That is the file teleop.bag plays a command every 0.2 seconds.
 
+# Authors
+
+Nikolas Kubis, Giorgos Skaltsis
