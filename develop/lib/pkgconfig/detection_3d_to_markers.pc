@@ -1,0 +1,8 @@
+prefix=/home/giorgos/GitLab/Lab3/devel
+
+Name: detection_3d_to_markers
+Description: Description of detection_3d_to_markers
+Version: 0.0.0
+Cflags: -I/home/giorgos/GitLab/Lab3/src/simulator/detection_3d_to_markers/include
+Libs: -L/home/giorgos/GitLab/Lab3/devel/lib 
+Requires: 

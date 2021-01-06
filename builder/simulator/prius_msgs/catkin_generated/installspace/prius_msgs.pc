@@ -1,0 +1,8 @@
+prefix=/home/giorgos/GitLab/Lab3/install
+
+Name: prius_msgs
+Description: Description of prius_msgs
+Version: 0.0.1
+Cflags: -I/home/giorgos/GitLab/Lab3/install/include
+Libs: -L/home/giorgos/GitLab/Lab3/install/lib 
+Requires: message_runtime std_msgs

@@ -1,0 +1,8 @@
+prefix=/home/giorgos/GitLab/Lab3/install
+
+Name: prius_description
+Description: Description of prius_description
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/giorgos/GitLab/Lab3/install/lib 
+Requires: 

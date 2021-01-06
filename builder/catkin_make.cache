@@ -1,0 +1,2 @@
+group06/ros_solution:simulator/car_simulation:simulator/cloud_conversions:simulator/detection_3d_to_markers:simulator/prius_description:simulator/prius_msgs
+-DCATKIN_DEVEL_PREFIX=/home/giorgos/GitLab/Lab3/devel -DCMAKE_INSTALL_PREFIX=/home/giorgos/GitLab/Lab3/install -G Unix Makefiles
