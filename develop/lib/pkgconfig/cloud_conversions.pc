@@ -1,8 +1,8 @@
-prefix=/home/giorgos/GitLab/Lab3/devel
+prefix=/home/Nick/develop/lib 
 
 Name: cloud_conversions
 Description: Description of cloud_conversions
 Version: 0.0.0
 Cflags: -I/home/giorgos/GitLab/Lab3/src/simulator/cloud_conversions/include
-Libs: -L/home/giorgos/GitLab/Lab3/devel/lib 
+Libs: -L/home/Nick/develop/lib  
 Requires: 

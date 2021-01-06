@@ -1,8 +1,8 @@
-prefix=/home/giorgos/GitLab/Lab3/devel
+prefix=/home/Nick/develop/lib 
 
 Name: ros_solution
 Description: Description of ros_solution
 Version: 0.0.0
 Cflags: 
-Libs: -L/home/giorgos/GitLab/Lab3/devel/lib 
+Libs: -L/home/Nick/develop/lib 
 Requires: 
